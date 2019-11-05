@@ -1,0 +1,4 @@
+com\shangguigu\service\DeptClientService.class
+com\shangguigu\service\DeptClientServiceFallbackFactory.class
+com\shangguigu\entities\Dept.class
+com\shangguigu\service\DeptClientServiceFallbackFactory$1.class
